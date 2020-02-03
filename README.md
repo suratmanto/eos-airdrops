@@ -61,7 +61,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EVR           | eosvrtokenss  |
 | EXE           | isoftpartner  |
 | FAIR          | faireostoken  |
-| FAST          | fastecoadmin  |
+| FAIR          | faireostoken  |
 | FYRE          | uxfyretoken1  |
 | GAMBLR        | gamblrtokens  |
 | HVT           | hirevibeshvt  |
@@ -80,6 +80,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | MAIL          | d.mail        |
 | MEV           | eosvegascoin  |
 | NEB           | nebulatokenn  |
+| NFD i          | nofoundation  |
 | NFX           | effecttokens  |
 | NUT           | eosdtnutoken  |
 | OCT           | octtothemoon  |
